@@ -1,0 +1,73 @@
+
+
+== Project
+* Basic Project
+** Age Calculator
+** Math Problem -> addition, subtraction, multiplication and division
+* QT Address Book Application
+* Barcode & QR Code Generation
+* OpenCV Image Caption
+* Python Flask Web Application
+* Web Scrapping
+* ChatGPT
+
+
+== Coverage
+* File Operation -> Read, Write CSV
+* Address Book -> Module, Package
+* OpenCV -> Error Handling
+* Web Scrapping -> Regular Expression
+
+
+== Story
+
+* Variable
+* Conditional Statement
+* Function
+* Loop
+* Polymorphism
+* Inheritance
+* Abstraction
+* Encapsulation
+
+
+Hostel or Mess Life
+
+* Variable
+** name: Abdullah
+** Age: 19
+** Room: single
+
+* If Else
+* Bua sokale ase nai
+* Dupure ase nai
+* Nije Ranna kore khailo
+
+* Function: One or more task perform in a single block
+** Chal duilo
+** Pani dilo
+** chal dilo
+** chula dhorailo
+
+* Loop :
+** Match khullo
+** Kathi ber korlo
+** agun jalai (Jollo, Jollo nah)
+
+* Polymorphism
+** Class a valo student
+** Practical pare nah
+** Me friend der help kore
+** Sele friend der help kore nah
+
+* Inheritance
+** Boro bhaiyer not nilo
+** Kisu chapter nije likhlo
+
+* Abstraction
+** Junior k bolla son ja muri banao khai sobai
+
+* Encapsulation
+** Single Room a thake
+** Taka jomay rakhe
+
